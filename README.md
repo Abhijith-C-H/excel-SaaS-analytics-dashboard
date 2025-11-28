@@ -111,5 +111,6 @@ All charts and KPI cards respond instantly to slicers.
 |------|-------------|
 | SaaS_Customer_Insights_Dashboard.xlsx | Final dashboard |
 | Dashboard_Steps.pdf | Step-by-step data cleaning & dashboard building guide |
+| Saas_Analytics_Dashboard.PNG
 | README.md | Project description |
 
